@@ -13,8 +13,8 @@ permalink: /:title/
 # Authors
 authors:
   conor-seoige:
-    name: "Conor Seoige"
-    display_name: Conor-Seoige
+    name: Conor Seoige
+    display_name: Conor Seoige
     description: "Tá Conor sa 6ú bliain faoi láthair"
   sal:
     name: Sal
