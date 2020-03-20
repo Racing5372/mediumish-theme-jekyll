@@ -2,7 +2,7 @@
 layout: post
 title:  "Daoine cáiliúla sa lá atá inniu ann"
 author: conor-seoige
-categories: [ grupa1 ]
+categories: [ Bl. 6 ]
 tags: [Daoine cáiliúla]
 image: assets/images/11.jpg
 ---
