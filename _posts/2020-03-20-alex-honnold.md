@@ -4,7 +4,7 @@ title:  "Alex Honnold"
 author: eoghan-o-dalaigh
 categories: [ Bl. 4 ]
 tags: [dreapadóireacht]
-image: assets/images/11.jpg
+image: assets/images/honnold.jpg
 ---
 Tá scéal an dreapadóra cháiliúil Alex Honnold an-suimiúil go deo. Rugadh Alex Honnold I Sacramento, California sa bhliain 1985. Agus é an-óg thosaigh Alex ag dul ag dreapadh lena athair. Dúirt Honnold agus é óg go dtéadh sé ag dreapadh lena thuistí de bharr go raibh sé ró-chuathalach chun ceist a chur ar dhaoine eile dreapadh leis. Lena chois sin d’admhaigh sé nach raibh tallann nádúrtha aige agus nach raibh sé sár-mhaith ag an dreapadh mar pháiste, b’éigean dó, go deimhin, cleachtadh mór a dhéanamh sular aithníodh an mianach suntasach a bhí ann mar dhreapadóir.
 
