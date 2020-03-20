@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Daoine cáiliúla sa lá atá inniu ann"
-author: Conor Seoige
-categories: [ grúpa1 ]
+author: conor-seoige
+categories: [ grupa1 ]
 tags: [Daoine cáiliúla]
 image: assets/images/11.jpg
-featured: true
 ---
 
 Le teacht na teicneolaíochta agus tionchar na meán sóisialta, ní mór do dhaoine cáiliúla sa lá atá inniu ann a bheith san airdeall I ngach aon ní a dhéanann said. Tráth dá raibh, bhíodh ainm na ndaoine cáiliúla ar pháipéar Domhnaigh an ghnáthdhuine amháin ach anois, a mhalairt de scéal atá fíor. Sáinnítear daoine faoi spotsholas an idirlín agus déantar anailís ar gach aon ghníomh a dhéanann siad. Is de dheasca an oiread tionchar, atá ag baint leo a bhíonn an oiread tábhacht ag baint leo. Agus sinn ag maireachtáil I dtréimhse ina n-iomadaíonn rátaí buairimh agus líon na ndaoine le fadhbanna meabharshláinte lá I ndiaidh lae, casann daoine baothdhána I dtreo laochra an phobail d’ionspráid. Tá páistí agus daoine aonracha ann atá go mór I dtuilleamaí daoine a thabharfaidh ardú meanman dóibh. Ar ndóigh, is minic nach trí thaisme a thagann iomrá ar dhuine agus is féidir foghlaim óna nósanna, gur féidir le haishlingí bheith fíoraithe trí obair chrua. Cionn is go bhfuil ar a laghad trí bhilliún duine ar domhan a bhaineann úsáid as an idirlíon, deirtear nach foláir do dhaoine I mbéal an phobail feidhmiú mar rólchuspaí ar a son. Ach an fíor don ráiteas seo? An bhfuil an dualgas ar aoinne le scil eisceachtúil a mianta pearsanta a fhágáil ar leataobh, d’fhonn géilleadh do chaighdeáin shóisialta? An bhfuil cosc ar fhéiniúlacht dhuine cáiliúil toisc go bhfuil daoine eile san angar? Is iad seo na ceisteanna a bheidh idir chaibidil san aiste seo. 
