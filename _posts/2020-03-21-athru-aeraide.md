@@ -3,7 +3,7 @@ layout: post
 title:  "Athrú aeráide"
 author: daire-o-maoildeirg
 categories: [ Bl. 4 ]
-tags: [Daoine cáiliúla]
+tags: [Athrú aeráide]
 image: assets/images/athruaeraide.jpg
 --- 
 Sa bhliain 2019, tar éis 20 bliain de chainteanna, shínigh an tAontas Eorpach agus an bloc Mercosur (Tíortha I Meiriceá Theas) comhaontú trádála thar a bheith cuimsitheach is, go deimhin, suntasach maidir le neart táirgí éagsúla, ach feoil agus táirgí feola ach go háirithe. Faoi láthair tá an tAontas Eorpach neamhspleách is féinchothaitheach ó thaobh tháirgeadh na feola de.
