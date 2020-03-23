@@ -20,6 +20,15 @@ authors:
     name: Eoghan Ó Dálaigh
     display_name: Eoghan Ó Dálaigh
     description: "4Naoise"
+  daire-o-maoildeirg:
+    name: Daire Ó Maoildeirg
+    display_name: Daire Ó Maoildeirg
+    description: "4Naoise"
+  liam-o-callarain:
+    name: Liam Ó Callaráin
+    display_name: Liam Ó Callaráin
+    description: "4Naoise"
+    
   sal:
     name: Sal
     display_name: Sal
