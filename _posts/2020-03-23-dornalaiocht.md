@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mar chosaint don dornálaíocht"
+title:  "Dornálaíocht, spórt na Ríthe"
 author: liam-o-callarain
 categories: [ Bl. 4 ]
 tags: [dornálaíocht]
