@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: catagoiri
 title: Catagóirí
 permalink: /catagoiri
 ---
