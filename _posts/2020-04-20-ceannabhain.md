@@ -39,6 +39,8 @@ Níl a fhios agam, faraor!
 
 **Mar a dúirt me cheana go ndeir tú gur “Socialist activist” thú ar do chuntas Twitter. An féidir leat é sin a mhíniú?**
 
+![A chuntas Twitter](https://i.ibb.co/JyLJ2vT/ceannabhain.png)
+
 “Socialist activist” céard atá i gceist ansin? Bhuel, is sóisalaí mé agus táim mar bhall de Phobal Roimh Bhrabach. Is páirtí sóisalach muid agus ba mhaith linn athrú ar an sochaí a fheiceáil go mbeadh an dream a bhíonn ag obair, an dream is tábhachtaí, na hoibrithe i bhfeighil ar an eacnamaíocht.
 
 Sílim go bhfuil sé suimiúil anois leis an ngéarchéim atá ar bun faoi láthair le COVID-19 go bhfuil muid ag féachaint céard í an obair is tábhachtaí sa sochaí: an dream atá ag obair sa gcóras sláinte, ag obair sna hollmhargaí, ag bailiú bruscair agus mar sin de. Seo hiad na rudaí a theastaíonn chun an sochaí a choinneáil ag obair. Sílim nár tugadh an t-aitheantas sin dóibh roimhe seo. Déantar scéal mór do lucht an airgeadais, na daoine a bhfuil smacht acu ar na bancanna agus mar sin de. Ba mhaith linn é seo a athrú.
