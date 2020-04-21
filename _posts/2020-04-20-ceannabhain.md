@@ -39,7 +39,7 @@ Níl a fhios agam, faraor!
 
 **Mar a dúirt me cheana go ndeir tú gur “Socialist activist” thú ar do chuntas Twitter. An féidir leat é sin a mhíniú?**
 
-![A chuntas Twitter](https://i.ibb.co/JyLJ2vT/ceannabhain.png)
+![A chuntas Twitter](https://i.ibb.co/74HWsfT/ceann.png)
 
 “Socialist activist” céard atá i gceist ansin? Bhuel, is sóisalaí mé agus táim mar bhall de Phobal Roimh Bhrabach. Is páirtí sóisalach muid agus ba mhaith linn athrú ar an sochaí a fheiceáil go mbeadh an dream a bhíonn ag obair, an dream is tábhachtaí, na hoibrithe i bhfeighil ar an eacnamaíocht.
 
