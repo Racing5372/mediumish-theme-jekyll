@@ -15,7 +15,7 @@ Nuair a bhí mé i gColáiste Eoin, bhí mé ag casadh go leor ceoil agus bhí m
 
 **An raibh cath na mbannaí sa scoil nuair a bhí tú ann?**
 
-Bhíodh cath na mbannaí ann. Is ceoltóir tradisiúnta mé áfach . Bhíodh an banna ceoil tradisiúnta againn. Chaitheadh muid b’fhéidir an bhliain ag réiteach píosa ceoil don mhórchomórtas ceoil Siansa.
+Bhíodh cath na mbannaí ann. Is ceoltóir tradisiúnta mé áfach . Bhíodh an banna ceoil tradisiúnta againn. Chaitheadh muid b’fhéidir an bhliain ag réiteach píosa ceoil don mhórchomórtas ceoil [Siamsa](https://www.siamsatire.com/).
 
 **Cad iad na hábhair a roghnaigh tú don ardteist?**
 
