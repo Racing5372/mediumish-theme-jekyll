@@ -7,7 +7,7 @@ tags: [dornálaíocht]
 image: assets/images/ali.jpg
 ---
 
-Sa lá atá inniu ann tá droch-chlú ar an dornálaîocht. Maíonn lucht a cáinte gur spórt brúidiúil é is go ndéanann sé scrios ar inchinn agus ar choirpeanna a n-iomaitheoirí go fádtéarmach. Tá na casaoidí seo so-thuigthe. Is é corp an duine, go bhfios dúinn, an rud is coimpléascaí sa chruinne. Is í aidhm na dornálaíochta an corp céanna sin a bhriseadh.
+Sa lá atá inniu ann tá droch-chlú ar an dornálaíocht. Maíonn lucht a cáinte gur spórt brúidiúil é is go ndéanann sé scrios ar inchinn agus ar choirpeanna a n-iomaitheoirí go fádtéarmach. Tá na casaoidí seo so-thuigthe. Is é corp an duine, go bhfios dúinn, an rud is coimpléascaí sa chruinne. Is í aidhm na dornálaíochta an corp céanna sin a bhriseadh.
 
 Seo mar a fheictear domsa é. Ní mór do dhornálaithe cineadh tromchúiseach a dhéanamh. Cuireann siad an oiread brú ar a gcoirp agus a dtoil go dtí go n-éiríonn leo an bua a bhreith leo nó go dtí go gcloítear iad. Tá sé ráite ag neart dornálaithe, leithéidí George Foreman agus Muhammad Ali ach go háirithe, gur tharla sé gur thug siad aghaidh ar a mbás féin agus iad i mbun coimhlinte sa chró dornálaíochta. Bíonn iarmhairtí tromchúiseacha aige seo ar shláinte an dornálaí, gan amhras. Féach ar dheireadh shaol Muhammad Ali, agus é ag fulaingt go léanmhar leis an ngalar Parkinson’s. Imríonn an galar seo droch-thionchar milteannach ar fheidhmiú na hinchinne. Ach nach é seo cinneadh pearsanta na ndornálaithe ? Ba mhó acu agus is ansa leo go deimhin luach saothair an lae inniu ná an gnáth-shaolré fada a roghnódh daoine eile.
 
