@@ -49,6 +49,8 @@ Taobh istigh de sin, sílim go dteastaíonn athrú mór mar gheall ar ghéarché
 
 **Cén polaiteoir reatha nó níos siar sa stair a bhfuil meas ar leith agat air/uirthi agus cén fáth?**
 
+![James Connolly](https://upload.wikimedia.org/wikipedia/commons/2/2d/James_Connolly2.jpg)
+
 James Connolly, an sóisialaí a throid i 1916. Tá go leor plé déanta air. An náisiúnaí a bhí ann nó poblachtánach nó sóisialaí a bhí ann. Sílim má bhreathnaíonn tú ar a chuid scríbhneoireachta fhéin gur Marxach a bhí ann agus gur sóisialaí a bhí ann. Bhí Connolly i gcoinne impireacht na Breataine agus scríobh sé go leor faoi seo ach dúirt sé nach fiú díreach fáil réidh le himpireacht na Breataine, go gcaithfí tír faoi cheannasaíocht na hoibritheoirí a bhunú dá mbeadh feabhas le teacht ar chúrsaí. Sílim go bhfuil sé sin léirithe anois leis an méid bochtanais atá sa tír seo anois agus leis an ngéarchéim tithíochta agus géarchéim na sláinte, ainneoin nach bhfuil na 26 contae faoi smacht na Breataine go bhfuil an géarchéim fós ann agus maidir leis na 6 chontae ó thuaidh, go bhfuil an rud céanna fíor, na rudaí ceannann céanna, géarchéim na tithíochta, na sláinte, bochtanais agus mar sin de.
 
 **Conas a thosaigh do shaol polaitiúil mar shóisialaí?**
